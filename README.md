@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋 
+<!--
 Armazenando alguns conhecimentos.
 <br><br>
 
@@ -16,19 +17,4 @@ Armazenando alguns conhecimentos.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarc31o&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-
-
-
-
-            
-          
-
-
-
-
-
-
-            
-          
-            
-          
+  -->
